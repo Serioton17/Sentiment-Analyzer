@@ -80,16 +80,7 @@ hf-project/
 
 ---
 
- 🧪 Things to Try
-
-1. Type tricky sentences like "Not bad at all" or "Yeah right, great video 🙄" and see where the model gets confused
-2. Swap the model for another one from [huggingface.co/models](https://huggingface.co/models)
-3. Try other tasks with the same style of code: `summarization`, `translation_en_to_fr`, `zero-shot-classification`
-4. Send a list of comments at once and count how many are positive and negative
-
----
-
-## ⚠️ Limitations
+ ⚠️ Limitations
 
 - Works best with **English** text
 - Only gives **positive** or **negative** (no neutral)
@@ -98,7 +89,7 @@ hf-project/
 
 ---
 
-## 🚀 Future Ideas
+ 🚀 Future Ideas
 
 - Add a **neutral** result using another model
 - Upload many comments from a file and see a summary
@@ -108,7 +99,7 @@ hf-project/
 
 ---
 
-## 📚 What I Learned
+ 📚 What I Learned
 
 - How to load and use a model from the Hugging Face Hub
 - What a pipeline, tokenizer, and model each do
@@ -117,6 +108,6 @@ hf-project/
 
 ---
 
-## 👤 Author
+ 👤 Author
 
 Made by **Serioton17** as a beginner learning project.
