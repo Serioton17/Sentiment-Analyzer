@@ -119,4 +119,4 @@ hf-project/
 
 ## 👤 Author
 
-Made by **Yourname** as a beginner learning project.
+Made by **Serioton17** as a beginner learning project.
